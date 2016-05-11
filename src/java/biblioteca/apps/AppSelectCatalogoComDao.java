@@ -18,7 +18,7 @@ import java.util.List;
 
 /**
  *
- * @author 2Sem2015
+ * @author Alterei La La La
  */
 public class AppSelectCatalogoComDao {
 
